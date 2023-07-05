@@ -25,6 +25,9 @@ I downloaded the data from March 2020 to June 2023 on the website [Layoffs.fyi](
 
    *Hypothesis: General Electric (GE), IBM, or Walmart, due to restructuring, automation, changes in market demand, financial challenges*
 
+## Final Report
+Final Report here: [EDA Layoffs Analysis](https://docs.google.com/presentation/d/182aiy5QYUb3ota3H9J5FnHvnk5uB8sa8_1Syij7kUyM/edit?usp=sharing)
+
 ## Data Analysis
 The number of Layoffs varies by country
 ![byCountry](https://github.com/songcangnguyen/Layoffs_Analysis/assets/109171837/c119e262-5783-40e0-81b8-1cd63e19123f)
