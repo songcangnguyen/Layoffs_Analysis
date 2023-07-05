@@ -1,6 +1,7 @@
 # Layoffs 2020-2023 Exploratory Data Analysis
 
-![image head 1](https://github.com/songcangnguyen/Layoffs_Analysis/assets/109171837/0568fa0b-dd8b-4077-8c42-05d203efa062)
+![image head 1](https://github.com/songcangnguyen/Layoffs_Analysis/assets/109171837/1de1e64c-5391-4dc8-956c-2fe2464fc56c)
+
 
 My friends and I have been impacted by the mass layoffs and economics downturn in the US. I was wondering if the US is the sole country where companies experience layoffs, which company has the highest number of layoffs as well as the overall magnitude of people affected by them.
 
@@ -26,19 +27,20 @@ I downloaded the data from March 2020 to June 2023 on the website [Layoffs.fyi](
 
 ## Data Analysis
 The number of Layoffs varies by country
-![byCountry](https://github.com/songcangnguyen/Layoffs_Analysis/assets/109171837/280b7865-150f-4d80-8f56-256ec06aa444)
-United States layoffs compared to other countries.
+![byCountry](https://github.com/songcangnguyen/Layoffs_Analysis/assets/109171837/c119e262-5783-40e0-81b8-1cd63e19123f)
 
-![USAvsOthercountry](https://github.com/songcangnguyen/Layoffs_Analysis/assets/109171837/5fd465f3-7554-4388-890d-6791690fb30f)
+United States layoffs compared to other countries.
+![USAvsOthercountry](https://github.com/songcangnguyen/Layoffs_Analysis/assets/109171837/301c272c-ffd4-4927-b247-258caf7285ed)
 
 Layoffs in each year since 2020
-![2020-2023](https://github.com/songcangnguyen/Layoffs_Analysis/assets/109171837/89d090ee-a8ec-4a7a-b3d3-bd04bef13b1b)
+![2020-2023](https://github.com/songcangnguyen/Layoffs_Analysis/assets/109171837/a4d7cb7f-c6a2-4be5-80f6-a03cd1b52c6f)
 
 Different industries across different sectors
-![difference industries](https://github.com/songcangnguyen/Layoffs_Analysis/assets/109171837/8e6e4630-cc90-45e7-95b7-8cf66df4e6bb)
+![difference industries](https://github.com/songcangnguyen/Layoffs_Analysis/assets/109171837/23f410aa-aa98-47f8-a48f-bdbde7ff4102)
 
 Top Layoffs Companies
-![topcompany](https://github.com/songcangnguyen/Layoffs_Analysis/assets/109171837/551e3533-34af-48df-b153-fffc0ae70728)
+![topcompany](https://github.com/songcangnguyen/Layoffs_Analysis/assets/109171837/7d31cd90-50f8-442c-90a3-09570dbc30b7)
 
 Top Layoff Companies Funds Raised
-![fundraised](https://github.com/songcangnguyen/Layoffs_Analysis/assets/109171837/588e1dab-918f-462b-8723-401e5a044550)
+![fundraised](https://github.com/songcangnguyen/Layoffs_Analysis/assets/109171837/e37bd07f-55e5-4e35-b566-387ca477604b)
+
