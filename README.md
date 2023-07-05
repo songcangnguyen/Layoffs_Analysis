@@ -1,5 +1,8 @@
 # Layoffs 2020-2023 Exploratory Data Analysis
 
+![image head 3](https://github.com/songcangnguyen/Layoffs_Analysis/assets/109171837/7fcdd894-7075-49c3-b0c4-2d9456e13ff8)
+
+
 My friends and I have been impacted by the mass layoffs and economics downturn in the US. I was wondering if the US is the sole country where companies experience layoffs, which company has the highest number of layoffs as well as the overall magnitude of people affected by them.
 
 ## Data source
